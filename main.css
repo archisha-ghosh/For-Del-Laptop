@@ -1,6 +1,6 @@
 :root {
-  --primary: #e4825b;
-  --secondary: #b91a1a;
+  --primary: #FFFFFF;
+  --secondary: #656464;
   --dark: #212121;
   --light: #F3F3F3;
 }
@@ -96,7 +96,7 @@ body {
   margin: 0 auto 30px;
   border-radius: 50%;
   background-color: rgb(210 10 10);
-  background-image: url(images4.jpg);
+  background-image: url(images3.jpg);
   border: 10px solid rgb(238 170 131);
   object-fit: cover;
 
